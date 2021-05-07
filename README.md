@@ -37,4 +37,8 @@
 
 # Repo
 
+https://github.com/Minamahmood/E-commerce-Back-End
+
 ## video walkthrough
+
+https://drive.google.com/file/d/1juRZA7gXHbXScPxRU7OtLhcj_BPOsVEt/view?usp=sharing
