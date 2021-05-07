@@ -28,10 +28,10 @@
 
 ## Tech Used
 
-.Node
-Express
-MYSQL
-Sequelize
+-Node
+-Express
+-MYSQL
+-Sequelize
 
 ## links
 
